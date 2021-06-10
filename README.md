@@ -1,5 +1,7 @@
 # gatsby-theme-basic-material-ui
 
+A basic gatsby theme that uses material ui.
+
 ## Usage
 
 1. Install:
