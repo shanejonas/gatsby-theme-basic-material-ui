@@ -68,9 +68,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/shanejonas/gatsby-basic-theme"
+    "url": "https://github.com/shanejonas/gatsby-theme-basic-material-ui"
   },
   "bugs": {
-    "url": "https://github.com/shanejonas/gatsby-basic-theme/issues"
+    "url": "https://github.com/shanejonas/gatsby-theme-basic-material-ui/issues"
   }
 }
