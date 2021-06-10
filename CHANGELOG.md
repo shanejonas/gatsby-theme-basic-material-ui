@@ -1,3 +1,11 @@
+# 1.0.0 (2021-06-10)
+
+
+### Bug Fixes
+
+* bump ([8dd3599](https://github.com/shanejonas/gatsby-theme-basic-material-ui/commit/8dd3599c3e6e7488bae4eb7dc75444f08d68e980))
+* repo urls ([2e9efc9](https://github.com/shanejonas/gatsby-theme-basic-material-ui/commit/2e9efc9d457318326f95a268a20a7e4a241c2f2c))
+
 # [1.2.0](https://github.com/xops/gatsby-openrpc-theme/compare/1.1.8...1.2.0) (2020-08-27)
 
 
